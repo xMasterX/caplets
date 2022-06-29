@@ -10,6 +10,8 @@ set http.server.path /usr/local/share/bettercap/ui
 set api.rest.username pwnagotchi
 set api.rest.password pwnagotchi
 set api.rest.websocket true
+set wifi.region CZ
+set wifi.recon.channel 1,2,3,4,5,6,7,8,9,10,11,12,13
 
 # go!
 api.rest on
